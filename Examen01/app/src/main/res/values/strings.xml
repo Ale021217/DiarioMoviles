@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Examen01</string>
+    <string name="Datos">Datos generales del Producto</string>
+    <string name="Codigo">Codigo</string>
+    <string name="Descripcion">Descripción</string>
+    <string name="Categoria">Categoria</string>
+    <string name="Minimo">Minimo</string>
+    <string name="Maximo">Maximo</string>
+    <string name="Descontinuado">Descontinuado</string>
+    <string name="Si">Si</string>
+    <string name="No">No</string>
+    <string name="Aceptar">Aceptar</string>
+</resources>
